@@ -1,0 +1,18 @@
+#EXTM3U
+
+# === MATCH TV: BL.VIDEO ===
+
+#EXTINF:-1 group-title="Матч ТВ",Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 group-title="Матч ТВ",Матч! Игра HD
+https://bl.video.matchtv.ru/media/start/free_71462918530/17_76666997491217f4514cc1c9316ab99d/3d25552e7b937d09c299d041de13433d/4828076680.m3u8
+
+#EXTINF:-1 group-title="Матч ТВ",Матч! Арена HD
+https://bl.video.matchtv.ru/media/start/free_71390440925/17_9a32d7c6e26c38cbf12eac3bdb76849c/d8cce72bad07fda5aaedf37638469aad/4828076680.m3u8
+
+#EXTINF:-1 group-title="Матч ТВ",Матч! Страна HD
+https://bl.video.matchtv.ru/media/start/free_71245485715/17_72477605/282f0b5f2d94038f259b5e8493a3a4c7/4828076680.m3u8
+
+#EXTINF:-1 group-title="Матч ТВ",Матч! Боец HD
+https://bl.video.matchtv.ru/media/start/free_71317963320/17_6a6ffd269d21331c36923698e5058dff/d1bf7e60eb90958ed76d6ebcd56039a3/4828076680.m3u8
